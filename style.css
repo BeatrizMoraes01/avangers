@@ -1,0 +1,19 @@
+.item-hero{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.name-hero{
+    font-size: 50px;
+    color: red;
+}
+.img-hero{
+    width: 30vw;
+    height: 70vh;
+}
+.descricao-hero{
+    font-size: 20px;
+}
